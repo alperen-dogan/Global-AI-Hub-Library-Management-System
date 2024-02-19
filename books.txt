@@ -1,0 +1,49 @@
+1,The Great Gatsby,F. Scott Fitzgerald,1925,218
+2,To Kill a Mockingbird,Harper Lee,1960,324
+3,1984,George Orwell,1949,328
+4,The Catcher in the Rye,J.D. Salinger,1951,224
+5,The Lord of the Rings,J.R.R. Tolkien,1954,1178
+6,One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,417
+7,Brave New World,Aldous Huxley,1932,311
+8,The Grapes of Wrath,John Steinbeck,1939,464
+9,Moby-Dick,Herman Melville,1851,635
+10,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,224
+11,The Great Expectations,Charles Dickens,1860,505
+12,The Chronicles of Narnia,C.S. Lewis,1950,767
+13,The Color Purple,Alice Walker,1982,295
+14,Slaughterhouse-Five,Kurt Vonnegut,1969,215
+15,The Odyssey,Homer,-700,442
+16,The Sun Also Rises,Ernest Hemingway,1926,330
+17,The Da Vinci Code,Dan Brown,2003,454
+18,Frankenstein,Mary Shelley,1818,280
+19,The Picture of Dorian Gray,Oscar Wilde,1890,254
+20,The Shining,Stephen King,1977,447
+21,War and Peace,Leo Tolstoy,1869,1225
+22,Anna Karenina,Leo Tolstoy,1877,964
+23,The Brothers Karamazov,Fyodor Dostoevsky,1880,824
+24,The Three Musketeers,Alexandre Dumas,1844,704
+25,Les Misérables,Victor Hugo,1862,1232
+26,Dracula,Bram Stoker,1897,418
+27,Jane Eyre,Charlotte Brontë,1847,532
+28,Pride and Prejudice,Jane Austen,1813,432
+29,The Hobbit,J.R.R. Tolkien,1937,310
+30,The Iliad,Homer,-800,683
+31,The Jungle Book,Rudyard Kipling,1894,277
+32,The Hound of the Baskervilles,Arthur Conan Doyle,1902,256
+33,The Metamorphosis,Franz Kafka,1915,201
+34,The Lord of the Flies,William Golding,1954,224
+35,The Count of Monte Cristo,Alexandre Dumas,1846,1276
+36,The Little Prince,Antoine de Saint-Exupéry,1943,83
+37,The Alchemist,Paulo Coelho,1988,197
+38,The Old Man and the Sea,Ernest Hemingway,1952,127
+39,The Scarlet Letter,Nathaniel Hawthorne,1850,238
+40,The War of the Worlds,H.G. Wells,1898,288
+41,The Secret Garden,Frances Hodgson Burnett,1911,277
+42,The Wind in the Willows,Kenneth Grahame,1908,302
+43,The Princess Bride,William Goldman,1973,398
+44,The Art of War,Sun Tzu,-500,104
+45,Alice's Adventures in Wonderland,Lewis Carroll,1865,200
+46,Wuthering Heights,Emily Brontë,1847,342
+48,The Girl with the Dragon Tattoo,Stieg Larsson,2005,590
+49,The Kite Runner,Khaled Hosseini,2003,372
+50,ARDA,YILDIRIM,2001,23
