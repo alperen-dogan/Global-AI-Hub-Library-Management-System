@@ -81,10 +81,10 @@ class Library:
 
         print(f"Book with title '{book_title}' removed successfully.")
 
-# Create the Library object
+
 lib = Library()
 
-# Menu interaction
+
 while True:
     print("*** MENU ***")
     print("1) List Books")
